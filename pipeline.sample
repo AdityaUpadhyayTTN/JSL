@@ -8,8 +8,8 @@ pipeline {
         APP_NAME = 'springboot'
         CONTAINER_PORT = '8000'
         HOST_PORT = '8000'
-        GIT_CRED_ID = 'github-ssh-key'
-        REPO_URL = 'git@github.com:kamalverma-ttn/gradle-springboot.git'
+        GIT_CRED_ID = '9bf2481c-9133-493b-9f70-ed77eda3449c'
+        REPO_URL = 'https://github.com/AdityaUpadhyayTTN/SpringBoot.git'
     }
     
     stages {
